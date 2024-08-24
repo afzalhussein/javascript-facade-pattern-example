@@ -1,0 +1,1 @@
+# javascript-facade-pattern-example
